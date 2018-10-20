@@ -327,7 +327,6 @@
 ## 社会科学
         
 
-3892/5000
 * [ACLED（武装冲突地点和事件数据项目)](http://www.acleddata.com/)
         
 * [加拿大法律信息研究所](https://www.canlii.org/en/index.php)
