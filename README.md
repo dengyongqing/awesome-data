@@ -166,9 +166,9 @@
         
 * [加拿大安大略省伦敦](http://www.london.ca/city-hall/open-data/Pages/default.aspx)
         
-* [洛杉矶公开数据（https://data.lacity.org/)
+* [洛杉矶公开数据](https://data.lacity.org/)
         
-* [卢森堡 - 卢森堡开放数据门户网站（https://data.public.lu/en/)
+* [卢森堡 - 卢森堡开放数据门户网站](https://data.public.lu/en/)
         
 * [MassGIS，Massachusetts，U.S.](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/)
         
@@ -396,7 +396,7 @@
         
 * [自1984年以来被执行的德州囚犯](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html)
         
-* [泰坦尼克号生存数据集（https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets)
+* [泰坦尼克号生存数据集](https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets)
         
 * [UCB的社会科学数据档案（D-Lab)](http://ucdata.berkeley.edu/)
         
