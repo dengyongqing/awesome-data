@@ -1,30 +1,9 @@
 # awesome-data
-数据源整理，更新中...
 
-
-# Awesome Quant [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-一份精心挑选的中文Quant相关资源索引。
+一份精心挑选的数据源资源索引。
 
 ## 目录
 
-*  [数据源](#数据源)
-*  [数据库](#数据库)
-*  [量化交易平台](#量化交易平台)
-*   [策略](#策略)
-*  [回测](#回测)
-*  [交易API](#交易api)
-*  [编程](#编程)
-    * [Python](#python)
-    * [R](#r)
-    * [C++](#c)
-    * [Julia](#julia)
-*  [论坛](#论坛)
-*  [书籍](#书籍)
-*  [论文](#论文)
-*  [政策](#政策)
-* [值得关注的信息源](#值得关注的信息源)
-*  [其他Quant资源索引](#其他quant资源索引)
 
 ## 数据源
 * [TuShare](http://tushare.org/)  - 中文财经数据接口包
