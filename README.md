@@ -9,6 +9,7 @@
 *  [政府](#政府)
 *  [物理](#物理)
 *  [社会科学](#社会科学)
+*  [互联网](#互联网)
 
 
 ## 经济
@@ -412,3 +413,9 @@
 * [世界银行开放数据](http://data.worldbank.org/)
         
 * [WorldPop项目 - 全球人口分布](http://www.worldpop.org.uk/data/get_data/)
+
+
+## 互联网
+        
+
+* [UCI（加州大学欧文分校（UCI）官网的数据集)](http://archive.ics.uci.edu/ml)
